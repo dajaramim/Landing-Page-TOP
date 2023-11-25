@@ -230,3 +230,15 @@ a {
     border-radius: 5px;
     margin-top: 10px;
 }
+
+/* FOOTER */
+
+.footer {
+    background-color: var(--primary-color);
+    padding: 50px 0;
+}
+.footer-text {
+    color: var(--light-gray);
+    font-size: 18px;
+    text-align: center;
+}
