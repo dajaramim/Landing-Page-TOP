@@ -143,3 +143,27 @@ a {
     font-size: 18px;
     color: #6d747d;
 }
+
+/* Quote */
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 100px 0 100px 0;
+    
+}
+.quote-container {
+    margin: 0 auto;
+    width: 36%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    font-size: 36px;
+}
+.quote-text {
+    color: #1F2937;
+    
+}
+.quote-author {
+align-self: flex-end;
+}
